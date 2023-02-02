@@ -1,2 +1,3 @@
 Hello world!
 It feels wonderful to be alive!
+Testing the changes with new config
