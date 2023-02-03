@@ -1,3 +1,4 @@
 Hello world!
 It feels wonderful to be alive!
 Testing the changes with new config
+Hmm..trying to open this text file with vs code was troublesome. It showed error...
